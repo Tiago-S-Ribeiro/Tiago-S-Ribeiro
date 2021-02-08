@@ -1,5 +1,5 @@
 ## **<p align="center"> Hi, I'm Tiago!</p>**
-<p align="center"> I'm an Informatics Engineering student, currently in my third year</p>
+
 
 <p align="center"> I'm an Informatics Engineering student, currently in my third year @
 <a href="https://www.isep.ipp.pt/Course/Course/26">ISEP</a>
@@ -44,16 +44,21 @@
   <br><br>
 </p>
 
-------------
+<p align="center">
+  <b>Profile's Visitors: </b><br>
+  <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
+</p>
 
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=Tiago-S-Ribeiro"></p>
+<p align="center">
+  <a target="_blank"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-S-Ribeiro&hide=TeX&layout=compact"></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-S-Ribeiro&hide=TeX&layout=compact)
+-----
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro)
+<p align="center">
+  <b>Random joke 😁</b><br>
+  <a target="_blank"><img alt="Visitors" src="https://readme-jokes.vercel.app/api"></a>
+</p>
 
-------------
-
-![Jokes](https://readme-jokes.vercel.app/api)
 
 
