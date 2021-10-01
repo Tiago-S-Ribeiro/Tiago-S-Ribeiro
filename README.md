@@ -38,8 +38,6 @@
 
 ------------
 
-//
-
 <p align="center">
   <b>Profile's Visitors: </b><br>
   <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
@@ -50,11 +48,3 @@
 </p>
 
 -----
-
-<p align="center">
-  <b>Random joke 😁</b><br>
-  <a target="_blank"><img alt="Visitors" src="https://readme-jokes.vercel.app/api"></a>
-</p>
-
-
-
