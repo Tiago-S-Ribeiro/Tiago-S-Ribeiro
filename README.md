@@ -2,11 +2,11 @@
 ##### **<p align="center">Trainee Infrastructure Engineer @ <a href="https://aboutfarfetch.com/about/farfetch/">Farfetch</a></p>**
 <br>
 
-<p align="justify"> I've completed a BSc degree in Informatics Engineering in 2021 and I'm currently studying for a Master's Degree in Graphic Systems & Multimedia @ <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a>. I also enjoy drawing, and although I haven't drawn in a while, you can check some of my digital artwork on my <a href="https://www.artstation.com/tiago_ribeiro">artstation portfolio<a>.</p>
+<p align="justify"> I've completed a BSc degree in Informatics Engineering in 2021 and I'm currently studying for a Master's Degree in Graphic Systems & Multimedia @ <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a>. I also enjoy drawing, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
 
 <br>
 
-<p align="center">
+<p align="left">
   <b>Certifications</b><br>
   <a href="https://www.youracclaim.com/badges/a99dd594-f63a-455f-ba32-68c940975b89?source=linked_in_profile">CCNA: Introduction to Networks <br>
   <a href="https://www.youracclaim.com/badges/3c057f01-7874-4d2f-8b40-b04f51614bbb?source=linked_in_profile">CCNA: Switching, Routing, and Wireless Essentials</a> <br>
