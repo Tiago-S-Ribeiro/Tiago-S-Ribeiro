@@ -1,5 +1,5 @@
 ## **<p align="center"> Hi, I'm Tiago!**
-##### **<p align="center">Trainee Infrastructure Engineer @ <a href="https://aboutfarfetch.com/about/farfetch/">Farfetch</a></p>**
+//##### **<p align="center">Trainee Infrastructure Engineer @ <a href="https://aboutfarfetch.com/about/farfetch/">Farfetch</a></p>**
 <br>
 
 <p align="justify"> I've completed a BSc degree in Informatics Engineering in 2021 and I'm currently studying for a Master's Degree in Graphic Systems & Multimedia @ <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a>. I also enjoy drawing, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
