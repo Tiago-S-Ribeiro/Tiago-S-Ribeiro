@@ -30,7 +30,6 @@
     <a target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity"></a>
     <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
     <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-Redux-000?&logo=Redux"></a>
-    <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"></a>
 </p>
 
 ------------
