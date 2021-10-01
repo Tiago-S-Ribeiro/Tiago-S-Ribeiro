@@ -1,4 +1,4 @@
-## **<p align="center"> Hi, I'm Tiago!</p>**
+## **<p align="center"> Hi, I'm Tiago!</br>##### **<p align="center">Trainee Infrastructure Engineer @ <a href="https://aboutfarfetch.com/about/farfetch/">Farfetch</a></p>**</p>**
 ##### **<p align="center">Trainee Infrastructure Engineer @ <a href="https://aboutfarfetch.com/about/farfetch/">Farfetch</a></p>**
 
 
