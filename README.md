@@ -1,12 +1,8 @@
-## **<p align="center"> Hi, I'm Tiago!</p>**
+## **<p align="center"> Hi, I'm Tiago, Trainee Infrastructure Engineer @ <a href="https://aboutfarfetch.com/about/farfetch/">Farfetch</a>!</p>**
 
 
-<p align="center"> I'm an Informatics Engineering student, currently in my third year @
-<a href="https://www.isep.ipp.pt/Course/Course/26">ISEP</a>
-</p>
-<p align="center"> 🎨 I like to draw as well, check some of my digital work @ 
-<a href="https://www.artstation.com/tiago_ribeiro">Artstation<a>
-</p>
+<p align="justify"> I've completed a BSc degree in Informatics Engineering and I'm currently studying for a Master's Degree in Graphic Systems & Multimedia @ <a href="https://www.isep.ipp.pt/Course/Course/26">ISEP</a> </p>
+<p align="center"> 🎨 I like to draw as well, check some of my digital work @ <a href="https://www.artstation.com/tiago_ribeiro">Artstation<a> </p>
 <br>
 
 <p align="center">
