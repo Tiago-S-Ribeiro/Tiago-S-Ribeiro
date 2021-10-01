@@ -29,11 +29,8 @@
     <a target="_blank"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco"></a>
     <a target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity"></a>
     <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-Redux-000?&logo=Redux"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-Redux-000?&logo=Redux"></a>
     <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"></a>
-    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow"></a>
-    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb"></a>
-    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-LaTeX-000?&logo=latex"></a>
 </p>
 
 ------------
