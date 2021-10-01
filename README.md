@@ -38,7 +38,7 @@
 
 ------------
 
-<p align="center"><img src="./profile.gif"></p>
+//
 
 <p align="center">
   <b>Profile's Visitors: </b><br>
