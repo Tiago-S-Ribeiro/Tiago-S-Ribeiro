@@ -25,11 +25,9 @@
     <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396"></a>
     <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C"></a>
     <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1"></a>
-    <a target="_blank"><img alt="Jira" src="https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC"></a>
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624"></a>
     <a target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"></a>
     <a target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-000?&logo=React"></a>
-    <a target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman"></a>
     <a target="_blank"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco"></a>
     <a target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity"></a>
     <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
