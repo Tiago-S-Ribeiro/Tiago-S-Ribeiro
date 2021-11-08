@@ -1,8 +1,12 @@
 ## **<p align="center"> Hi, I'm Tiago!**
 <br>
 
-<p align="justify"> I've completed a BSc degree in Informatics Engineering in 2021 and I'm currently studying for a Master's Degree in Graphic Systems & Multimedia @ <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a>. I also enjoy drawing, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
-
+<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently a Trainee Infrastructure Engineer at FARFETCH. I love to draw on my free time, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/whzd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 <br>
 
 <p align="left">
