@@ -1,5 +1,8 @@
 ## **<p align="center"> Hi, I'm Tiago!**
 <br>
+<p align="center">
+  <b>Profile's Visitors: </b> <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
+</p>
 
 <p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently a Trainee Infrastructure Engineer at FARFETCH. I love to draw on my free time, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
 
@@ -36,11 +39,6 @@ You can find me on:
 </p>
 
 ------------
-
-<p align="center">
-  <b>Profile's Visitors: </b><br>
-  <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
-</p>
 
 <p align="center">
   <a target="_blank"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-S-Ribeiro&hide=TeX&layout=compact"></a>
