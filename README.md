@@ -46,8 +46,8 @@ You can find me on:
   <a target="_blank"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-S-Ribeiro&hide=TeX&layout=compact"></a>
 </p>
 
+<center>[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Tiago-S-Ribeiro&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)</center>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Tiago-S-Ribeiro&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-S-Ribeiro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
