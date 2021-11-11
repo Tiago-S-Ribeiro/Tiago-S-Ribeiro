@@ -1,5 +1,5 @@
 ## **<p align="center"> Hi, I'm Tiago!**
-<br>
+
 <p align="center"><br>
   <b>Profile's Visitors: </b> <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
 </p>
@@ -24,7 +24,7 @@ You can find me on:
 </p>
 
 <p align="center">
-    <a target="_blank"><img alt="JS" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508"></a>
+    <a target="_blank"><img alt="JS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-000?&logo=C"><a>
     <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396"></a>
     <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C"></a>
