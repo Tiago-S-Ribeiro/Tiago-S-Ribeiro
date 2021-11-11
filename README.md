@@ -26,26 +26,32 @@ You can find me on:
 <p align="center">
     <a target="_blank"><img alt="JS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a target="_blank"><img alt="C" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><a>
-    <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
     <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
     <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
     <a target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+</p>
+<p align="center">
     <a target="_blank"><img alt="React" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
     <a target="_blank"><img alt="Cisco" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
     <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
-    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-      <a target="_blank"><img alt="React" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
+   <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+</p>
+<p align="center">
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+</p>
+<p align="center">
+    <a target="_blank"><img alt="React" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
 </p>
 
 ------------
