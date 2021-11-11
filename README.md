@@ -1,4 +1,4 @@
-## **<p align="center"> Hi, I'm Tiago!**
+## **<p align="center"> Hi, I'm Tiago!**<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <p align="center">
   <b>Profile's Visitors: <br></b> <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
