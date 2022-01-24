@@ -46,7 +46,3 @@
 </p>
 
 ------------
-
-<p align="center">
-  <a target="_blank"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-S-Ribeiro&hide=TeX&layout=compact"></a>
-</p>
