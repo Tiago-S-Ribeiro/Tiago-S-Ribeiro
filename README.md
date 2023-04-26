@@ -4,7 +4,7 @@
   <b>Profile's Visitors: <br></b> <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
 </p>
 
-<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently a Junior Infrastructure Engineer at FARFETCH. I love to draw on my free time, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
+<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently an Infrastructure Engineer at FARFETCH. I love to draw on my free time, and although I haven't drawn in a while, you can check some of my digital artwork <a href="https://www.artstation.com/tiago_ribeiro">here<a>.</p>
 
 <p align="left">
   <b>Certifications: </b><br>
