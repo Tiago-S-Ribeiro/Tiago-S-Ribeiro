@@ -14,5 +14,3 @@
   <a href="https://www.credly.com/badges/dc71ba35-3ddc-468a-9738-989ba2f5ca87?source=linked_in_profile">Microsoft Certified: Azure Fundamentals</a> <br>
   <br><br>
 </p>
-
-------------
