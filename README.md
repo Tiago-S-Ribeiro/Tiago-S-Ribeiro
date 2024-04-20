@@ -1,9 +1,5 @@
 ## **<p align="center"> Hi, I'm Tiago!**
 
-<p align="center">
-  <b>Profile's Visitors: <br></b> <a target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago-S-Ribeiro.Tiago-S-Ribeiro"></a>
-</p>
-
 <p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently an Infrastructure Engineer at FARFETCH.</p>
 
 <p align="left">
