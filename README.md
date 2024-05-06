@@ -1,6 +1,6 @@
 ## **<p align="center"> Hi, I'm Tiago!**
 
-<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently an Infrastructure Engineer at FARFETCH.</p>
+<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently a Cloud Automation Engineer at <a href="https://www.blip.pt/">Blip.pt</p>
 
 <p align="left">
   <b>Certifications: </b><br>
