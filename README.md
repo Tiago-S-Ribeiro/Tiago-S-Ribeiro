@@ -1,6 +1,6 @@
 ## **<p align="center"> Hi, I'm Tiago!**
 
-<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently a Cloud Automation Engineer at Flutter UK&I</p>
+<p align="justify"> I've completed a BSc degree in Informatics Engineering at <a href="https://www.isep.ipp.pt/Course/Course/87">ISEP</a> in 2021 and I'm currently a Platform Engineer at Flutter UK&I</p>
 
 <p align="left">
   <b>Certifications: </b><br>
